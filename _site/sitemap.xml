@@ -92,6 +92,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/meeting/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/search.html</loc>
 </url>
 <url>
@@ -108,8 +111,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/page3/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/page4/</loc>
 </url>
 </urlset>

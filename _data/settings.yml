@@ -36,6 +36,8 @@ CTAs:
   first_CTA_URL: http://www.tampabayhomeslist.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.tampabayhomeslist.com/search/advanced_search
+  third_CTA_text: Let's Meet
+  third_CTA_URL: /meeting/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -50,6 +52,13 @@ second_sidebar_CTA:
     CTA_text2: "Search the entire MLS for your Tampa Bay home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: http://www.tampabayhomeslist.com/search/advanced_search
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/003.jpg
+    CTA_title3: "Interested in a career in real estate?"
+    CTA_text3: "Set up a Skype or Coffee Meeting."
+    CTA_link_text3: "Let's meet!"
+    CTA_url3: /meeting/
 
 lender:
   show_section: false
