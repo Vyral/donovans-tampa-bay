@@ -24,7 +24,7 @@ One aspect of home value that buyers and sellers tend to ignore is the property 
 <div class="post-cta">
 Looking to sell your home? <a href="https://www.tampabayhomeslist.com/cma/property-valuation/" target="_blank">Get a FREE home value report</a><br>
 Looking to buy a home? <a href="https://www.tampabayhomeslist.com/search/advanced_search/" target="_blank">Search all homes on the MLS</a><br>
-Interested in a career in real estate? <a href="http://tampabaycareers.blogspot.com/p/skype-or-coffee-meeting.html" target="_blank">Let's meet!</a>
+Interested in a career in real estate? <a href="/meeting/">Let's meet!</a>
 </div>
 
 In this episode of “Keeping in Tune With the Market,” we’re taking a closer look at property taxes and how they affect home value. We decided on this topic after receiving a great question from Gary, which went like this:

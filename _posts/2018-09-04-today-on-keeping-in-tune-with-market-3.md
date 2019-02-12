@@ -24,7 +24,7 @@ If you smoke cigarettes in your home, the odors this habit leaves behind could c
 <div class="post-cta">
 Looking to sell your home? <a href="https://www.tampabayhomeslist.com/cma/property-valuation/" target="_blank">Get a FREE home value report</a><br>
 Looking to buy a home? <a href="https://www.tampabayhomeslist.com/search/advanced_search/" target="_blank">Search all homes on the MLS</a><br>
-Interested in a career in real estate? <a href="http://tampabaycareers.blogspot.com/p/skype-or-coffee-meeting.html" target="_blank">Let's meet!</a>
+Interested in a career in real estate? <a href="/meeting/">Let's meet!</a>
 </div>
 
 If you’re a cigarette smoker, you may have become smell-blind to the odors this habit can leave behind in your home. This can pose a big problem when it comes time to sell, because non-smoking buyers are sure to notice this residual aroma.

@@ -24,7 +24,7 @@ A home’s actual value is determined by two people: the appraiser and the buyer
 <div class="post-cta">
 Looking to sell your home? <a href="https://www.tampabayhomeslist.com/cma/property-valuation/" target="_blank">Get a FREE home value report</a><br>
 Looking to buy a home? <a href="https://www.tampabayhomeslist.com/search/advanced_search/" target="_blank">Search all homes on the MLS</a><br>
-Interested in a career in real estate? <a href="http://tampabaycareers.blogspot.com/p/skype-or-coffee-meeting.html" target="_blank">Let's meet!</a>
+Interested in a career in real estate? <a href="/meeting/">Let's meet!</a>
 </div>
 
 When you’re getting ready to buy or sell a home, you often wonder who really determines the actual value of a home and what the sales price will eventually be. There are basically two people who determine the value of a home.

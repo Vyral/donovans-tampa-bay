@@ -24,7 +24,7 @@ Knowing what to do when you spot a stroke is critical—the right knowledge coul
 <div class="post-cta">
 Looking to sell your home? <a href="https://www.tampabayhomeslist.com/cma/property-valuation/" target="_blank">Get a FREE home value report</a><br>
 Looking to buy a home? <a href="https://www.tampabayhomeslist.com/search/advanced_search/" target="_blank">Search all homes on the MLS</a><br>
-Interested in a career in real estate? <a href="http://tampabaycareers.blogspot.com/p/skype-or-coffee-meeting.html" target="_blank">Let's meet!</a>
+Interested in a career in real estate? <a href="/meeting/">Let's meet!</a>
 </div>
 
 I wanted to do something a little different for today’s episode of "Keeping in Tune With the Market." Today, I want to talk about a very serious subject: strokes.

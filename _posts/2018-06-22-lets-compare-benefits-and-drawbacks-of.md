@@ -24,7 +24,7 @@ Is it better to sell your home furnished or unfurnished? Today we will get to th
 <div class="post-cta">
 Looking to sell your home? <a href="https://www.tampabayhomeslist.com/cma/property-valuation/" target="_blank">Get a FREE home value report</a><br>
 Looking to buy a home? <a href="https://www.tampabayhomeslist.com/search/advanced_search/" target="_blank">Search all homes on the MLS</a><br>
-Interested in a career in real estate? <a href="http://tampabaycareers.blogspot.com/p/skype-or-coffee-meeting.html" target="_blank">Let's meet!</a>
+Interested in a career in real estate? <a href="/meeting/">Let's meet!</a>
 </div>
 
 Today’s question comes from one of our viewers, Kathy O’Shea, who asks: “Should you sell your home furnished or unfurnished?”

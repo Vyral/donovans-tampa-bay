@@ -24,7 +24,7 @@ If you don’t want to fall prey to home repair fraud, there are three common re
 <div class="post-cta">
 Looking to sell your home? <a href="https://www.tampabayhomeslist.com/cma/property-valuation/" target="_blank">Get a FREE home value report</a><br>
 Looking to buy a home? <a href="https://www.tampabayhomeslist.com/search/advanced_search/" target="_blank">Search all homes on the MLS</a><br>
-Interested in a career in real estate? <a href="http://tampabaycareers.blogspot.com/p/skype-or-coffee-meeting.html" target="_blank">Let's meet!</a>
+Interested in a career in real estate? <a href="/meeting/">Let's meet!</a>
 </div>
 
 Whether you’re facing a summer hurricane or a winter storm, we homeowners all have to deal with damage being done to the exterior of our homes at some point in our lives. In today’s episode of “Keeping In Tune With the Market,” I want to share a story about home repair fraud that happened to a client of mine and give you a few tips on how to prevent the same thing from happening to you.  
