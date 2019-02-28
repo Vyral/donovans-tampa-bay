@@ -12,7 +12,7 @@ title: A Holiday Message to You
 date: '2018-12-18T09:57:00.001-08:00'
 author: Vyral Admin
 tags:
-- Tamp Bay Real Estate
+- Tampa Bay Real Estate
 modified_time: '2018-12-20T12:05:14.722-08:00'
 thumbnail: https://i.ytimg.com/vi/1NLXLEWobKQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2990067579348798973.post-8456223548111439713
