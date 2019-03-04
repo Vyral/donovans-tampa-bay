@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who Pays the Commission in a Real Estate Transaction?
-date: 2019-03-04 20:17:32
+date: 2019-03-04 08:17:00
 tags:
   - Real Estate
 excerpt: >-
