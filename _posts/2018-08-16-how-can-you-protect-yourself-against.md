@@ -12,7 +12,7 @@ title: How Can You Protect Yourself Against Home Repair Fraud?
 date: '2018-08-16T09:03:00.000-07:00'
 author: Vyral Admin
 tags:
-- Tamp Bay Real Estate Tips
+- Tampa Bay Real Estate Tips
 modified_time: '2018-08-17T11:51:26.627-07:00'
 thumbnail: https://i.ytimg.com/vi/bqD_E-tCLbg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2990067579348798973.post-8053201388668378062

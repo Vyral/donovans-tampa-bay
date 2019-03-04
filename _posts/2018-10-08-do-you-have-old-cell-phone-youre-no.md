@@ -12,7 +12,7 @@ title: Got a Cell Phone You No Longer Use?  Here Are 5 Ways to Repurpose It
 date: '2018-10-08T11:32:00.001-07:00'
 author: Vyral Admin
 tags:
-- Tamp Bay Real Estate Tips
+- Tampa Bay Real Estate Tips
 modified_time: '2018-10-12T07:51:23.023-07:00'
 thumbnail: https://i.ytimg.com/vi/ztuhnD5hbbg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2990067579348798973.post-5656911210607613035

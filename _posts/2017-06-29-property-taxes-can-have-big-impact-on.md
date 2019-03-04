@@ -12,7 +12,7 @@ title: Property Taxes Can Have a Big Impact on Value
 date: '2017-06-29T12:25:00.003-07:00'
 author: Vyral Admin
 tags:
-- Tamp Bay Real Estate Tips
+- Tampa Bay Real Estate Tips
 modified_time: '2017-06-30T08:10:01.906-07:00'
 thumbnail: https://i.ytimg.com/vi/PQVIJRZlViU/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2990067579348798973.post-7409611561026509334

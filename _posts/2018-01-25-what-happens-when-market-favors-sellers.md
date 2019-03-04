@@ -12,7 +12,7 @@ title: What Happens When the Market Favors Sellers?
 date: '2018-01-25T11:11:00.000-08:00'
 author: Vyral Admin
 tags:
-- Tamp Bay Real Estate Tips
+- Tampa Bay Real Estate Tips
 modified_time: '2018-01-29T08:57:52.237-08:00'
 thumbnail: https://i.ytimg.com/vi/cijW4HLePI4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2990067579348798973.post-686268303732694173
