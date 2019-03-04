@@ -18,8 +18,6 @@ youtube_code: z5t85vVdSNU
 
 {% include youtube.html %}
 
-&nbsp;
-
 We’re back for another edition of “You’ve Got Questions, We’ve Got Answers.” Today’s question is: Who pays the commission in a real estate transaction?
 
 Many buyer’s agents lead people to believe that because the seller is offering the commission amount, the seller is paying the commission. Then, the listing agent says that because the buyer is bringing the money to the table it’s really them that is paying the commission. **So, which one is it really?**
