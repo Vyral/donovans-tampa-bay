@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Avoid a Low Appraisal on Your Home
-date: 2019-03-18 16:35:30
+date: 2019-03-18 16:35:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: TI_BGd9lA94
+youtube_code: OEBHWddDHok
 ---
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 Whether you’re a buyer, a seller, or an agent, the last thing you want is to receive a low appraisal on a home you recently sold or wanted to buy.
 
@@ -34,5 +34,3 @@ I just had a buyer’s agent tell me that they simply “let the appraiser handl
 If all else fails and you still receive a low appraisal, there are still other things you can do. **We’ll be detailing these in a future video, so stay tuned!**
 
 In the meantime, feel free to reach out to us if you have any questions or would like further information. We look forward to hearing from you soon.
-
-&nbsp;
