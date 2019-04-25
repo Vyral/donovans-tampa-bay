@@ -37,7 +37,7 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: http://www.tampabayhomeslist.com/search/advanced_search
   third_CTA_text: Let's Meet
-  third_CTA_URL: /meeting/
+  third_CTA_URL: https://kjdonovan.wufoo.com/forms/zrybf0l08ehaf6/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
