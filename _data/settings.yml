@@ -56,7 +56,7 @@ second_sidebar_CTA:
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
     CTA_title3: "Interested in a career in real estate?"
-    CTA_text3: "Set up a Skype or Coffee Meeting."
+    CTA_text3: "We'd Love to set up a Strategy Session with you."
     CTA_link_text3: "Let's meet!"
     CTA_url3: /meeting/
 
