@@ -52,14 +52,14 @@
 					{% elsif site.data.settings.CTAs.second_CTA_URL == 'contact' %}
 					<a class="cta" id="contact" href="contact">
 					{% else %}
-				<a class="cta" href="{{site.data.settings.CTAs.second_CTA_URL}}" target="_blank">
+				<a class="cta" href="{{site.data.settings.CTAs.second_CTA_URL}}">
 				{% endif %}
 					{{site.data.settings.CTAs.second_CTA_text}}
 				</a>
 			</li>
 			{% endif %}
 			<li>
-				<a class="cta" href="{{site.data.settings.CTAs.third_CTA_URL}}" target="_blank">
+				<a class="cta" href="{{site.data.settings.CTAs.third_CTA_URL}}">
 					{{site.data.settings.CTAs.third_CTA_text}}
 				</a>
 			</li>
