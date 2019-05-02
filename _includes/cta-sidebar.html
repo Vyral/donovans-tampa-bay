@@ -61,9 +61,9 @@
 <div class="cta-sidebar-container">
 	<div class="cta-img-container">
 		{% if cta.CTA_link_text3 == null or cta.CTA_url3 == null%}
-	<a href="{{cta.third_CTA_URL}}" target="_blank">
+	<a href="{{cta.third_CTA_URL}}">
 		{% else %}
-		<a href="{{cta.CTA_url3}}" target="_blank">
+		<a href="{{cta.CTA_url3}}">
 		{%endif%}
 		<img src="{{cta.CTA_image_path3}}" alt="" />
 	</a>
@@ -74,11 +74,11 @@
 	</p>
 	<div class="ctacontainer">
 		{% if cta.CTA_link_text3 == null or cta.CTA_url3 == null%}
-		<a class="ctalink" href="{{site.data.settings.CTAs.third_CTA_URL}}" target="_blank">
+		<a class="ctalink" href="{{site.data.settings.CTAs.third_CTA_URL}}">
 			{{site.data.settings.CTAs.third_CTA_text}}
 		</a>
 		{% else %}
-		<a class="ctalink" href="{{cta.CTA_url3}}" target="_blank">
+		<a class="ctalink" href="{{cta.CTA_url3}}">
 			{{cta.CTA_link_text3 | replace: '-- MARKET --', site.data.settings.client.market}}
 		</a>
 		{% endif %}
