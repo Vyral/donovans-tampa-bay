@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are You Doing With Your Time?
-date: 2019-04-29 16:26:22
+date: 2019-04-29 16:26:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: sQ7JzNJALiI
+youtube_code: dulCZpCxWE8
 ---
 
 {% include youtube.html %}
