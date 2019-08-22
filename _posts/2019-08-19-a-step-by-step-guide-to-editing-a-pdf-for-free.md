@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Step-by-Step Guide to Editing a PDF (For Free)
+title: A Step-by-Step Guide to Editing a PDF (for Free)
 date: 2019-08-19 19:13:00
 tags:
 excerpt: >-
@@ -20,7 +20,7 @@ youtube_code: 5uGCqi1OIxo
 
 Have you ever been in a situation where you received a document in your email that you needed to fill out and send back quickly, but you didn’t have access to a PDF editor? Today I’ll give you a helpful tip to hack a PDF editor.
 
-Adobe Acrobat DC is PDF-editing program that costs around $25 a month to use. However, if you don’t have access to that program when you need it or you don’t want to spend the money on it, **here’s a simple tech-hack to get your PDF form filled out quickly for free:**
+Adobe Acrobat DC is PDF-editing program that costs around $25 a month to use. However, if you don’t have access to that program when you need it or you don’t want to spend the money on it, **here’s a simple tech hack to get your PDF form filled out quickly for free:**
 
 **1**. Go to a program called [PDFescape](https://www.pdfescape.com/windows/){: target="_blank"}.&nbsp;<br>**2\.** Click on the “Free Online” button.<br>**3\.** Select the “Upload PDF to PDFescape” option. From there, you’ll be able to access the PDF document you saved to your computer.<br>**4\.** Pull up your document.<br>**5\.** On the top right, there’s a button labeled “Text.” Click on it to add text to a blank line on the document you’re trying to fill out.<br>6\. If you make a mistake with the text you’re writing, go up to the “Whiteout” option in the top right; click and drag the box over the text you want to whiteout, but be sure not to click on anything you want to keep\! Then go back and click “text” again to write over the newly erased mistake.
 
