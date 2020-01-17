@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Need a Market Snapshot
-date: 2020-01-17 16:51:22
+date: 2020-01-17 16:51:00
 tags:
   - Real Estate
   - Market Update
@@ -13,8 +13,8 @@ pullquote: >-
   overview.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/1-13-20yt.jpg
 youtube_code: AvTRAI6l1Jc
 ---
 
