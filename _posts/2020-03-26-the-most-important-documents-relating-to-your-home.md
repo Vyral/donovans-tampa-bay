@@ -19,7 +19,8 @@ youtube_code:
 
 {% include youtube.html %}
 
-*Are you keeping all of the paperwork you’d need for a home sale? Here’s precisely what you need to have on standby. *
+<center><em>Are you keeping all of the paperwork you’d need for a home sale? Here’s precisely what you need to have on standby. </em></center>
+&nbsp;
 
 What paperwork should you safeguard for future reference and preparation of your home sale?
 
