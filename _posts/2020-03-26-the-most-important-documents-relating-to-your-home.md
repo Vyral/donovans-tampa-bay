@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Most Important Documents Relating to Your Home
-date: 2020-03-26 15:43:19
+date: 2020-03-26 15:43:00
 tags:
 excerpt: >-
   Are you keeping all of the paperwork you’d need for a home sale? Here’s
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: McaiS-BLE-s
 ---
 
 {% include youtube.html %}
