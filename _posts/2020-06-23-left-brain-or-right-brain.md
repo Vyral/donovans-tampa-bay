@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Left Brain or Right Brain?
-date: 2020-06-23 19:14:04
+date: 2020-06-23 19:14:00
 tags:
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/karen.jpg
 youtube_code:
 ---
 
@@ -33,7 +33,7 @@ Now that you understand how you think and process information, this week try to 
 
 **Words of Wisdom**
 
-*When a person has access to both the intuitive, creative and visual right brain, and the analytical, logical, verbal left brain, then the whole brain is working...And this tool is best suited to the reality of what life is, because life is not just logical-it is also emotional. – Stephen Covey*
+*When a person has access to both the intuitive, creative and visual right brain, and the analytical, logical, verbal left brain, then the whole brain is working…And this tool is best suited to the reality of what life is, because life is not just logical-it is also emotional. – Stephen Covey*
 
 *When our goals are clearly defined and intelligently set, you have, in essence, taken a major step toward programming your left brain. That frees your right brain to be its creative best. - Zig Ziglar*
 
