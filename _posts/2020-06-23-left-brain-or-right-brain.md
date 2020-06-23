@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/bbf2330dad38cceffa010582-410x294.jpg
 youtube_code:
 ---
 
