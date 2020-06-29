@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stay a Steady Course
-date: 2020-06-29 14:54:13
+date: 2020-06-29 14:54:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/mondayy-1.PNG
 youtube_code:
 ---
 
@@ -25,15 +25,15 @@ Human beings have been getting distracted from their goals for centuries. In fac
 
 **Words of Wisdom**
 
-*Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps, they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them. -- Jack Canfield*
+*Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps, they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them. – Jack Canfield*
 
-*Only put off until tomorrow what you are willing to die having left undone. - Pablo PicassoYou may delay, but time will not. -- Benjamin Franklin*
+*Only put off until tomorrow what you are willing to die having left undone. - Pablo PicassoYou may delay, but time will not. – Benjamin Franklin*
 
-*You are never too old to set another goal or to dream a new dream. -- Les Brown*
+*You are never too old to set another goal or to dream a new dream. – Les Brown*
 
-*Desire is the key to motivation, but it is determination and commitment to an unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek. -- Mario Andretti*
+*Desire is the key to motivation, but it is determination and commitment to an unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek. – Mario Andretti*
 
-*A goal is a dream with a deadline. -- Napoleon Hill*
+*A goal is a dream with a deadline. – Napoleon Hill*
 
 Make it a Great Week - and Stay a Steady Course\! Karen & Joe DonovanP.S.&nbsp;
 
