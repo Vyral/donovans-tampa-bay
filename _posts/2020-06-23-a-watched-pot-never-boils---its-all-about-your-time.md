@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Watched Pot Never Boils - Its all about Your Time!
-date: 2020-06-23 19:24:41
+date: 2020-06-23 19:24:00
 tags:
 excerpt:
 enclosure:
@@ -13,11 +13,9 @@ youtube_alternate_image: /uploads/3698c684dee4da34f7d34ae8-1120x630.png
 youtube_code:
 ---
 
-Good Morning Colleague,
-
 Have you ever heard the phrase, “A watched pot never boils”? When you want something to happen, paying attention to it will make the wait feel much longer.
 
-How long have the last three months felt like--really? Eternity? If that’s how you are feeling, you can join the millions or others around the world who are feeling the same way\! A day seems like a week, a week seems like a month, and a month feels like a year because we are caught up in a continuous loop of information, disinformation, stress, and just waiting to see what will happen next.
+How long have the last three months felt like–really? Eternity? If that’s how you are feeling, you can join the millions or others around the world who are feeling the same way\! A day seems like a week, a week seems like a month, and a month feels like a year because we are caught up in a continuous loop of information, disinformation, stress, and just waiting to see what will happen next.
 
 It’s time to stop watching and start doing. Do anything\! Learn a new skill. Take on a new hobby. Read. Write. Reach out to others. Get outside in your garden or go for a half hour walk in the park.
 
