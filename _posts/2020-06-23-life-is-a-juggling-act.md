@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life is a Juggling Act
-date: 2020-06-23 19:21:52
+date: 2020-06-23 19:21:00
 tags:
 excerpt:
 enclosure:
@@ -12,8 +12,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/karrrrr.png
 youtube_code:
 ---
-
-**Good Morning Colleague,**
 
 **Imagine life as a game in which you are juggling five balls in the air. You name them – work, family, health, friends, and spirit and your job is to keep them all in motion. If you drop one of these balls – what will bounce back? Work is the rubber ball that bounces back. We are seeing that each day as the country reopens. Businesses are reporting increased sales and real estate is quickly rebounding all across the world. But not all these balls are so quick to bounce back. If you drop spirit, it does not bounce back so quickly and can affect every other ball that you are attempting to juggle. The health ball is one that we have discovered is very fragile, so carefully protect it. If you drop the family and friends balls, they will be irrevocably scuffed, marked, nicked, damaged, or even shattered. They will never be the same. Relationships need care, time, nurturing and attention.**
 
