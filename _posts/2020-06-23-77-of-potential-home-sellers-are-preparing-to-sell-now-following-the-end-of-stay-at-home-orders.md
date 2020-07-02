@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/mondayy.PNG
 youtube_code:
 ---
 
-Friends and Clients —Did you know that the latest Realtor's Report states that:
+Did you know that the latest Realtor's Report states that:
 
 ***77% of Potential Home Sellers are Preparing to Sell Now following the end of Stay-at-Home orders\!***
 
