@@ -13,8 +13,6 @@ youtube_alternate_image: /uploads/mondayy-1.PNG
 youtube_code:
 ---
 
-Good Morning Colleague,
-
 There are two sides of every coin and human nature is no different\! Some people are more logical and some are more emotional. It’s funny how we often end up picking a mate for life who is our opposite, isn’t it? It’s not gender specific. It has more to do with which side of your brain dictates your activities and way of thinking. Nobel prize winner Roger Sperry discovered this in the 1960’s. Are you a left brain or a right brain? If you are a left brain dominant person, you are generally more analytical and orderly than the right brain dominant person. The left-brain person is historically better at things such as reading, writing, and computations. The left brain is logical, linear thinking, and prefers facts.
 
 If you are a right brain dominant person, you are more visual and intuitive. You are more creative and have less of an organized way of thinking. You are connected to nonverbal clues, daydreaming, and imagination. Although the two brains function differently, they work together and complement each other. For example, the left brain is credited with language, but the right brain helps you understand context and tone. The left brain handles mathematical equations, but the right brain helps out with comparisons and rough estimates. Whether you’re working out a complicated algebraic equation or painting an abstract work of art, both sides of your brain are actively participating and providing input\!
