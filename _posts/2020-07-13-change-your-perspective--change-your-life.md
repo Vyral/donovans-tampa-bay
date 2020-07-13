@@ -19,9 +19,13 @@ Henry Ford is famous for a quote: “Whether you think you can or think you can�
 
 Researchers have studied these behaviors for over 100 years. Tony Robbins inspires people to walk barefoot on hot coals because they believe they can. But about 1% do not make it across without burns. Why? Because they didn’t believe they could. The best way to change your life is through action. Nothing is going to change if you aren’t willing to change yourself. It takes a lot of courage, determination, and action to change your perspective. It’s not an overnight process. It may take a little time to recondition your brain and train it to view things in the most strategic and beneficial way, but it is so worth it.&nbsp;[**See clip of Opra Winfrey Firewalking HERE\!**](https://t.e2ma.net/click/mrb3pc/6imx8m/ux1l1h){: target="_blank"}
 
-**Something to Think About**You have the choice to be happy or sad, complain or express gratitude, smile or frown, be productive or procrastinate, be a victim or a victor. Just remember that you always have a choice and it begins by changing your perspective to find the positives.
+**Something to Think About**
 
-**Weekly Activity**Take some time this week to ask these questions:
+You have the choice to be happy or sad, complain or express gratitude, smile or frown, be productive or procrastinate, be a victim or a victor. Just remember that you always have a choice and it begins by changing your perspective to find the positives.
+
+**Weekly Activity**
+
+Take some time this week to ask these questions:
 
 * Is there a part of your life that you’re not happy about because you feel like you have no choice?
 * If you did have a choice, what would that look like?
@@ -29,7 +33,9 @@ Researchers have studied these behaviors for over 100 years. Tony Robbins inspir
 * How would your life be different if you made that choice?
 * Take the problem, flip it around and over and upside down to find a new perspective. It’s the key to finding choices where we once saw none.
 
-**Words of Wisdom**As he thinks, so he is; as he continues to think, so he remains. - James Allen
+**Words of Wisdom**
+
+As he thinks, so he is; as he continues to think, so he remains. - James Allen
 
 A man is literally what he thinks, his character being the complete sum of all his thoughts. - James Allen
 
