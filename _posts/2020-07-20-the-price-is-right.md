@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Price is Right
-date: 2020-07-20 15:19:05
+date: 2020-07-20 15:19:00
 tags:
 excerpt:
 enclosure:
@@ -25,7 +25,7 @@ If you'd like expert, no obligation advice from someone who has been working "in
 
 If you need to get something fixed around your house and you are tired of calling repair people with no one calling you back, or worse, they come to your home to fix something and you aren't even sure they know what they are doing- here is a great resource to help you be informed so that you can either do the job yourself (if you have the time, skill & ability) or at least be well versed in what needs to be done so when the contractor comes you can have a general idea that they know what they are doing\!&nbsp; Check out:&nbsp;[**100 Home Repairs you Can Do Yourself HERE.**](https://www.familyhandyman.com/list/100-home-repairs-you-can-do-yourself/)
 
-**Practical Tip for the Week - How to Save Money: 20 Simple Tips &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **
+\*\*Practical Tip for the Week - How to Save Money: 20 Simple Tips\*\*
 
 Whether you are saving up money to buy your first home, move up to a bigger home, or getting ready to retire and downsize, it never hurts to start saving up for all the expenses that are to come\! Here is a great, short blog I found about 20 Practical Ways to Save Money -&nbsp;[**20 Great Ways to SAVE Money CLICK HERE**&nbsp;](https://www.daveramsey.com/blog/the-secret-to-saving-money)to check it out\!
 
