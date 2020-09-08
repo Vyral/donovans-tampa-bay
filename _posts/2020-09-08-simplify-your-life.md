@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simplify Your Life
-date: 2020-09-08 16:09:24
+date: 2020-09-08 16:09:00
 tags:
 excerpt:
 enclosure:
@@ -28,7 +28,9 @@ Here are four great ways to take it down a notch (and hopefully life’s stress 
 
 In her book,&nbsp;[**Spark Joy: an illustrated master class in the art of organizing and tidying up**’](https://t.e2ma.net/click/9vvjzc/5wd3tzj/tzvppg){: target="_blank"}, Marie Kondo encourages people to discard the things that don’t spark joy. Unfortunately, many of us are actually weighed down by possessions and therefore not really aware, or perhaps cannot see the things that can bring joy into our lives. It is not difficult at all though to identify the objects and things that bring you joy. The moment you touch something valuable to you, you will know its importance straight away.Check out the full post&nbsp;[**HERE**.](https://t.e2ma.net/click/9vvjzc/5wd3tzj/9rwppg){: target="_blank"}
 
-**Words of Wisdom*****Life is really simple, but we insist on making it complicated. ConfuciusThe most simple things can bring the most happiness. Izabella ScorupcoMy key to dealing with stress is simple: just stay cool and stay focused. Ashton EatonSuccess is nothing more than a few simple disciplines, practiced every day. Jim Rohn***
+**Words of Wisdom**
+
+***Life is really simple, but we insist on making it complicated. ConfuciusThe most simple things can bring the most happiness. Izabella ScorupcoMy key to dealing with stress is simple: just stay cool and stay focused. Ashton EatonSuccess is nothing more than a few simple disciplines, practiced every day. Jim Rohn***
 
 Have a Great Labor Day & Make it a&nbsp;**SIMPLY Great Week Ahead\!**
 
