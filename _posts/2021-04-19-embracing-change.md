@@ -14,7 +14,7 @@ youtube_code:
 ---
 **There’s an old saying, “The only constant is change.” How true is that?&nbsp; We are moving at warp speed, it feels like most days.&nbsp; Blink and you’ll miss much more than a minute\! Change is terrifying for many people, but when you understand at your core that nothing lasts, not the good or the bad – that we are constantly in a state of evolution, you can breathe easy knowing that there are new opportunities and blessings around every corner. Instead of fighting fiercely to keep change from happening, throw the doors to new experiences wide open and invite them in for a spell. The more we learn to go with the flow and see change as a friend rather than an adversary, the happier we can be, and the more we can accomplish. Look each new day in the eye, give it a wink, and say, “I’m ready for anything\!” How can you turn change into opportunity?&nbsp;[CLICK HERE](https://t.e2ma.net/click/sfgche/sbltq1c/cri1dn){: target="_blank"}**
 
-**Words of WisdomNobody can go back and start a new beginning, but anyone can start today and make a new ending. -Maria Robinson**
+**Words of Wisdom Nobody can go back and start a new beginning, but anyone can start today and make a new ending. -Maria Robinson**
 
 **Play Fun Day Monday Now & Win a Panera Card\!&nbsp;****Don't Click off the blog without answering this week's Trivia Question about Change\!&nbsp;**&nbsp;[**CLICK HERE TO PLAY FUN DAY MONDAY TRIVIA CONTEST**](https://t.e2ma.net/click/sfgche/sbltq1c/sjj1dn){: target="_blank"}
 
