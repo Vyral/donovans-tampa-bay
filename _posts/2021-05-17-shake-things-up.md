@@ -32,6 +32,6 @@ youtube_code:
 
 **Karen & Joe Donovan**
 
-**P.S.****The winners for last week's Trivia Contest were**\:&nbsp;**Debbie Calamusa, Claudia Russo, Alex Espinosa, & Karla Sanford.&nbsp;****Not Only do they get a Panera Gift Card but their names are entered in the Grand Prize drawing for the month of April and that winner will have a donation made to the Charity of their choice\! &nbsp;Watch the Winners announced on The Good News Wednesday Show&nbsp;**&nbsp;[**WATCH ON FACEBOOK OR YOUTUBE NOW \!**](https://t.e2ma.net/click/khs4le/sbltq1c/05dijn){: target="_blank"}
+**P.S.&nbsp;****The winners for last week's Trivia Contest were**\:&nbsp;**Debbie Calamusa, Claudia Russo, Alex Espinosa, & Karla Sanford.&nbsp;****Not Only do they get a Panera Gift Card but their names are entered in the Grand Prize drawing for the month of April and that winner will have a donation made to the Charity of their choice\! &nbsp;Watch the Winners announced on The Good News Wednesday Show&nbsp;**&nbsp;[**WATCH ON FACEBOOK OR YOUTUBE NOW \!**](https://t.e2ma.net/click/khs4le/sbltq1c/05dijn){: target="_blank"}
 
 **BIG ANNOUNCEMENT - Grand Prize Drawing for April\! Winner was Vanessa Singh\! Vanessa's favorite charity is&nbsp;**[**Children's Miracle Network**](https://t.e2ma.net/click/khs4le/sbltq1c/gyeijn){: target="_blank"}**[&nbsp;](https://t.e2ma.net/click/khs4le/sbltq1c/wqfijn){: target="_blank"}&nbsp;A donation was made to them based on the number of players in Fun Day Monday for the whole month of April\!**
