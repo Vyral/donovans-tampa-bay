@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/network.jpeg
 youtube_code:
 ---
-Who Do You Have in YOUR Network?&nbsp;*Trust is the vglue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships.”*&nbsp; Stephen Covey&nbsp;[CLICK HERE](https://youtu.be/gPdgSZAUgjE)
+Who Do You Have in YOUR Network?&nbsp;*Trust is the value of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships.”*&nbsp; Stephen Covey&nbsp;[CLICK HERE](https://youtu.be/gPdgSZAUgjE)
 
 **Good Morning\!**
 
