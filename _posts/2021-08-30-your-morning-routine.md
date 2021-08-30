@@ -27,15 +27,10 @@ Do you stagger out of bed frazzled and overwhelmed? That’s no way to start the
 Here are a few tips and suggestions to start your day with purpose.
 
 * Learning how successful people begin their day can inspire you to craft your morning routine.
-
 * A consistent exercise routine nourishes your mind, body and spirit.
-
 * A meditation or mindfulness session gives your day clarity, focus and a sense of peace.
-
 * Create an evening routine that helps you relax, let go of daily demands and organize the next morning.
-
 * A good night’s sleep provides energy for your morning routine and enables high performance during the day.
-
 * Beginning the day with self-care and attention sets you up to handle whatever may follow
 
 Every morning offers the possibility of a “clean slate” and the ability to start fresh. Taking care of your needs first thing helps you respond calmly and productively to the day’s challenges. The choices we make during the first hour or so of our morning determine whether we have productivity and peace of mind for the rest of the day or whether it will clobber us over the head.
