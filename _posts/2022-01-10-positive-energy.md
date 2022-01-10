@@ -22,7 +22,7 @@ youtube_code:
 
 **Something to Think AboutLet’s face it, in 2022, your mind will still produce unpleasant thoughts&nbsp; alongside the positive ones. We just have to learn that sometimes we need to pay attention to them. &nbsp;We can then determine that If they are helpful, we can learn from them, but if they are not, we should just let them come and let them go. &nbsp;\*Advice given in&nbsp;[“The Happiness Trap”](https://t.e2ma.net/click/fhqlnd/zwff20l/f1pm3e){: target="_blank"}&nbsp; by Russ Harris.**
 
-**Real Estate Corner: Speaking of "Positive Energy" -- Discover some big and small ways to SAVE ENERGY in 2022\! Check out&nbsp;*"22 Energy Saving Tips for 2022"&nbsp;*\-&nbsp;[CLICK HERE](https://t.e2ma.net/click/fhqlnd/zwff20l/vtqm3e){: target="_blank"}**
+**Real Estate Corner: Speaking of "Positive Energy" – Discover some big and small ways to SAVE ENERGY in 2022\! Check out&nbsp;*"22 Energy Saving Tips for 2022"&nbsp;*\-&nbsp;[CLICK HERE](https://t.e2ma.net/click/fhqlnd/zwff20l/vtqm3e){: target="_blank"}**
 
 **Make it a great week and remember: "Consider carefully what and who gets to make this positive journey with you this new year\!"&nbsp; (Concept by&nbsp;[Jon Gordon](https://t.e2ma.net/click/fhqlnd/zwff20l/bmrm3e){: target="_blank"}&nbsp;of the "Energy Bus")**
 
