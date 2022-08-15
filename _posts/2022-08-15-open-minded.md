@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OPEN-MINDED
-date: 2022-08-15 00:00:00
+date: 2022-08-14 00:00:00
 tags:
 excerpt:
 enclosure:
