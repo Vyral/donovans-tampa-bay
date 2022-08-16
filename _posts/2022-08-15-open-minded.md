@@ -18,7 +18,7 @@ youtube_code:
 
 ***"Minds are like Parachutes - they function better when they are open.&nbsp;*[Tommy Deware](https://www.answers.com/Q/What_does_the_quote_%27Minds_are_like_parachutes_They_only_function_when_open%27_mean)**
 
-**Are you Open-Minded?**
+**Are you Open-Minded?&nbsp;**
 
 **Have you ever met a person who was totally the opposite of you? They had different viewpoints and tastes in everything: lifestyle, food, religion, politics\! The list could go on, but in other words, they were&nbsp;[total opposites\!](https://www.powerthesaurus.org/total_opposite/synonyms)&nbsp;Yet somehow you managed to get along and have mutual respect and even appreciation for each other.**
 
