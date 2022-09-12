@@ -47,6 +47,6 @@ youtube_code:
 
 &nbsp;***P.S. LISTEN NOW TO THE SONG OF THE WEEK\!***
 
-***&nbsp; If you are inquisitive...***
+***&nbsp; If you are inquisitive…***
 
 ***&nbsp;&nbsp;******&nbsp;&nbsp;[CLICK HERE NOW&nbsp;](https://youtu.be/XFxNC87HyLo)&nbsp;***
